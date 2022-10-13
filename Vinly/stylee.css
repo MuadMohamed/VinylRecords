@@ -1,0 +1,29 @@
+
+h2{
+background-color: black;
+}
+
+body{
+    background: bisque;
+    color-scheme: blue;
+}
+
+
+h2{
+    text-align: center;
+    margin-left: auto;
+margin-right: auto;
+font-size: 35px;
+font-family:monospace
+}
+
+
+h1{
+    text-align: center;
+    margin-left: auto;
+margin-right: auto;
+font-size: 35px;
+font-family:monospace
+}
+
+
